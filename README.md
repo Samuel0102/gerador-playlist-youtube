@@ -6,7 +6,7 @@
 
 ## Tecnologias
 *Linguagem utilizada*: Python 3.8.  
-*Bibliotecas utilizadas*: Time, Selenium e OS.  
+*Bibliotecas utilizadas*: Time, Selenium, OS e Tkinter.  
 *IDE*: Visual Studio Code
 
 ## Funcionalidades
