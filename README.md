@@ -13,9 +13,8 @@
 
 ## Funcionalidades
 * Escolha da pasta de músicas
-* Escolha da playlist remota para transferência
-* Uso de diferentes navegadores
 * Transferência de músicas locais para playlist remota
+* Arquivo txt contendo músicas que falharam
 
 ## Requisitos para manipular código
 * Biblioteca Selenium e navegador para automação(ChromeDriver, etc)
