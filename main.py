@@ -11,9 +11,12 @@ google = Google()
 google.acessar_google()
 
 # logando usuário no google
-samuelzin = Usuario("fsamuelpacheco@gmail.com","pereba_feia", google)
-samuelzin.acessar_site_login()
-samuelzin.logar()
+user_conta = input("Digite seu email: ")
+user_senha = input("Digite sua senha: ")
+
+usuario = Usuario(user_conta,user_senha, google)
+usuario.acessar_site_login()
+usuario.logar()
 
 # abrindo playlist local  
 playlist1 = Playlist("musicas", google)
